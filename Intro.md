@@ -14,3 +14,8 @@ Virtual machines have a many different uses. There are many different options to
   * This is might be the most useful, especially if you are a student. Whether you have Mac or Windows or maybe even Linux (congrats) as your host OS, you can use a VM to use OS specific programs or to learn another OS. 
   * This also allows you to use older versions of OS to use outdated software. 
   * You can also use it to develop software for other platfroms.
+
+
+---
+
+Next topic: [How VMs work](How.md) 
