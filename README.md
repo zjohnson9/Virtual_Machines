@@ -1,6 +1,6 @@
 # Virtual Machines
-This is a tutorial on Virtual Machines
-Written by Zac Johnson
+- This is a tutorial on Virtual Machines
+- Written by Zac Johnson
 
 ---
 
