@@ -16,4 +16,4 @@
 
 ## Helpful Links to gert started
 
-* [History of VMs](History.md)
+* [Introduction to VMs](Intro.md)
