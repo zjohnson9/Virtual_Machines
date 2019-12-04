@@ -38,6 +38,6 @@
 
 Links
 * [README](README.md)
-* [How they work](How.md)
+* [How VMs work](How.md)
 * [Introduction](Intro.md)
  
