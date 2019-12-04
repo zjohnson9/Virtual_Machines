@@ -8,7 +8,11 @@ As you can see from the picture, the hypervisor allows you to take advantage of 
 
 ---
 
+Next Topic: [Getting Started with VMs](GettingStarted.md)
+
+---
+
 ### Links
 * [README](README.md)
-* [Introduction](Intro.md)
-* [Getting Started](GettingStarted.md)
+* [Introduction to VMs](Intro.md)
+* [Getting Started with VMs](GettingStarted.md)
