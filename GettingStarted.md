@@ -33,4 +33,11 @@
 |:-------------:|:-------------:|
 | Imppressive features and speed     | Takes up a lot of resources |
 | Different versions to suit different applications | Subsciption model and Mac only  |  
+
+---
+
+Links
+* [README](README.md)
+* [How they work](How.md)
+* [
  
