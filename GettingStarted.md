@@ -27,7 +27,7 @@
 
 ## Parallels 
 * Parallels is Mac software that allows Mac user sto have virtual machines
- * [Parallels](https://www.parallels.com/)
+  * [Parallels](https://www.parallels.com/)
  
 | Pros          | Cons          | 
 |:-------------:|:-------------:|
