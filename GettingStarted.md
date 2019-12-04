@@ -10,4 +10,4 @@
 
 ## Oracle VirtualBox
 * Virtual box is open source (which means free for you)! VirtualBox works well with Vagrant. Below is the guide to getting started.
-  *[VirtualBox with Vagrant](https://medium.com/@AnnaJS15/getting-started-with-virtualbox-and-vagrant-8d98aa271d2a)
+  * [VirtualBox with Vagrant](https://medium.com/@AnnaJS15/getting-started-with-virtualbox-and-vagrant-8d98aa271d2a)
