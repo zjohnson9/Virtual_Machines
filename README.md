@@ -18,3 +18,4 @@
 
 * [Introduction to VMs](Intro.md)
 * [How VMs work](How.md)
+* [Getting Started](GettingStarted.md)
