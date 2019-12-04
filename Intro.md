@@ -1,13 +1,13 @@
 # What exactly is a Virtual Machine?
 
-A virtual machine is, at its core, a file. It is an image file, that behaves like an actual computer, which creates a computer in a computer, computerception. Once the file is ran, it will open a window with the guest OS. This acts like most other programs where when you open it, it pulls up a window for you to interact. The nice thing about this virtual machine, is that it is seperate from the rest of your machine. So, whatever happens in the VM will not impact the native OS. This gives virtual machines a huge boost for usability. 
+A virtual machine is, at its core, a [file](https://en.wikipedia.org/wiki/Computer_file). It is an image file, that behaves like an actual computer, which creates a computer in a computer. Once the file is ran, it will open a window with the guest OS. This acts like most other programs where when you open it, it pulls up a window for you to interact. The nice thing about this virtual machine, is that it is seperate from the rest of your machine. So, whatever happens in the VM will not impact the [native OS](https://en.wikipedia.org/wiki/Native_%28computing%29). This gives virtual machines a huge boost for usability. 
 
 ---
 
 ## So what are virtual machines useful for?
 
 Virtual machines have a many different uses. There are many different options to choose from but I will present what I think are the most important. 
-* Security 
+* [Security](https://en.wikipedia.org/wiki/Computer_security) 
   * There are many reasons why VMs can be used for security. This [article](https://blog.mailfence.com/virtual-machine/) will show you some reasons to use a VM as security. 
 * Creating Operating System Backups
 * Running programs that only run on specfic Operating systems.
