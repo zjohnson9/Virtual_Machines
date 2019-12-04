@@ -9,6 +9,6 @@ As you can see from the picture, the hypervisor allows you to take advantage of 
 ---
 
 ### Links
-* [REAMDME](README.md)
+* [README](README.md)
 * [Introduction](Intro.md)
 * [Getting Started](GettingStarted.md)
